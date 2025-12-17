@@ -31,3 +31,13 @@ Creating new  workflow
 
 Configuration of respond to webhook 
 ![alt text](image-10.png)
+
+Unfortunately no succesful output because somehow n8n thinks that file is not writable,
+meanwhile the codespace shows that  it is rw for everyone
+![alt text](image-11.png)
+![alt text](image-12.png)
+
+
+Screenshot of first commit and using of Codespace
+
+![alt text](<Screenshot 2025-12-17 195030.png>)

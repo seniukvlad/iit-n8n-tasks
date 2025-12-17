@@ -121,8 +121,3 @@ Toggle Active in the top-right corner.
 
 Use the production URL for notes logging:
 `http://[YOUR_CODESPACE_URL]/webhook/note?note=Important`
-
-
-
-Screenshot of first commit and using of Codespace
-![alt text](image.png)
